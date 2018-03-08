@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-Mar-2018, 12:34:24
+    Author     : mnoora
+*/
+
+
+
+#rowDiv{
+    margin: auto;
+    text-align:center;
+    width:100%;
+}
+input[type="text"]{
+    height:40px;
+    font-size: 20px;
+}
+
+
+#Weather{
+    height: 40px;
+    font-size: 15px;
+    font-weight: normal;
+    background-color: #FC788E;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+      
+#Save{
+  height: 40px;
+    font-size: 15px;
+    font-weight: normal;
+    background-color: #FC788E;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}       
+    
+
+#show{
+    margin:auto;
+    text-align: center;
+}
+
+#error{
+    margin:auto;
+    text-align: center;
+    color: #E01537;
+}
+
+.title{
+    margin: auto;
+    text-align:center;
+    width:100%;
+}
+body {background-color: #D9DFE1};
+
